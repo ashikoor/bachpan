@@ -49,6 +49,6 @@ Twitter: @ashikurraxman
 
 ## 📌 License
 
-MIT Ⓒ Ashikur Rahman 2025
+MIT © 2025 Ashikur Rahman
 
 
