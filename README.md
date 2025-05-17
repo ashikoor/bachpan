@@ -42,9 +42,13 @@ Many children grow up feeling unheard, unloved, or mentally hurt by the people w
 
 
 
-✨ Credits
+## ✨ Credits
 
 Made with ❤️ for children everywhere by Ashikur Rahman
 Twitter: @ashikurraxman
+
+## 📌 License
+
+MIT Ⓒ Ashikur Rahman 2025
 
 
